@@ -1,0 +1,52 @@
+html {
+	background-position: 0 0 10% 0;
+	background: url("http://fc06.deviantart.net/fs71/i/2012/267/6/f/planet_in_clouds_by_vreckovka-d5fqz45.jpg") no-repeat fixed;
+	/*background-color: #777;*/
+	-website-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+
+
+body {
+	background-color: transparent;
+}
+
+h2 {
+	text-align: center;
+	margin: 0 0 3% 0;
+	color: yellow;
+}
+.formBackground {
+	color: #fff;
+	background-color: rgba(0, 0, 0, 0.7);
+	text-align: left;
+	width: 35%;
+	padding: 3% 5%;
+	border-radius: 4%;
+	margin: 2% 0 0 33%;
+}
+
+.inputBackground {
+	background: #000;
+}
+
+.logo{
+	background-color: rgb(0, 0, 0);
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+.logo h2 {
+	text-align: center;
+	margin: 0;
+	color: #fff;
+	margin-bottom: 1%;
+}
+
+.pickPlanet {
+	text-align: center;
+	margin-left: 45%;
+}
